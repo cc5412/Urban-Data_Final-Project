@@ -2,7 +2,7 @@
 
 ## Methodology/Code:
 Copy of cc5412_Final Project_Documenting ICE.ipynb
-** Project was worked in Google Colab. Final ipynb file was dropped into GitHub, which may affect things.
+* Project was worked in Google Colab. Final ipynb file was dropped into GitHub, which may affect things.
 
 ## Data Sources:
 Publicly available Bluesky posts.
@@ -22,4 +22,4 @@ Thank you to Tim Small for pointing me in the right direction. Based on his code
 
 Issues kept arising and I kept getting no results, so I continued to debug the code. In the end, the proof of concept shows it’s possible to roughly visualize where and how ICE is operating.
 
-**For the future, it would be great if the project could actually archive the posts somewhere and if the map on github could run the code daily in order to update itself.
+* For the future, it would be great if the project could actually archive the posts somewhere and if the map on github could run the code daily in order to update itself.
