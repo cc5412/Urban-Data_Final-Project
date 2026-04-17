@@ -2,12 +2,15 @@
 
 ## Methodology/Code:
 Copy of cc5412_Final Project_Documenting ICE.ipynb
+
 Project was worked in Google Colab. Final ipynb file was dropped into GitHub, which may affect things.
 
 ## Data Sources:
-Publicly available Bluesky posts.\n
-US Census Bureau, ACS 2023\n
-      Unfortunately due to connection issues, I was unable to integrate this data into the final deliverable. The code is present at the end of the Python
+Publicly available Bluesky posts.
+
+US Census Bureau, ACS 2023
+
+Unfortunately due to connection issues, I was unable to integrate this data into the final deliverable. The code is present at the end of the Python
 notebook.
 
 ## Appendix: Methodology Pitfalls
